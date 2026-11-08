@@ -1,0 +1,39 @@
+{
+ "negocio":"Suculento Ramen","ig":"suculentoramenpdc","tel":"9841250978",
+ "horario":[["Martes a sábado","2:00 pm a 9:00 pm"],["Domingo","2:00 pm a 8:30 pm"],["Lunes","Cerrado"]],
+ "notas":["Todos los precios incluyen IVA.","** Contiene alérgenos.","Contenedor para llevar: $5 por pieza."],
+ "categorias":[
+ {"id":"entradas","nombre":"Entradas","items":[
+  {"n":"Tostadas","d":"Atún o salmón marinado en ponzu, aceite de chiles, base cremosa de aguacate y emulsión de jalapeño. 2 piezas, 80 g.","p":[["Atún",105],["Salmón",115]],"img":"tostadas"},
+  {"n":"Dumplings con chilli oil","d":"Empanadas rellenas de carne molida condimentada, bañadas en chilli oil y cebolla cambray. 6 piezas, 120 g.","p":[["",120]],"img":"dumplings"},
+  {"n":"Suculento Poke","a":1,"d":"Arroz vapor, atún y salmón marinados, emulsión de chiles, edamames, aguacate y cilantro. 350 g.","p":[["",130]],"img":"poke"},
+  {"n":"Edamames","a":1,"d":"Aceite de ajonjolí, aceite de chiles, ajo-jengibre, limón y ajonjolí. 125 g.","p":[["",95]],"img":"edamames"},
+  {"n":"Kushiage","a":1,"d":"Queso manchego empanizado en panko con salsa agridulce. 1 pieza, 100 g.","p":[["",65]],"img":"kushiage"}]},
+ {"id":"ramen","nombre":"Ramen","items":[
+  {"n":"Suadero Ramen","a":1,"d":"Suadero, shoyu, fideos hechos en casa, salsa macha, cebolla, limón y cilantro. 450 g.","p":[["",175]],"img":"suadero"},
+  {"n":"Camarón Ramen","a":1,"d":"Camarón tempurizado, shoyu-dashi, fideos hechos en casa, nori y salsa macha. 4 piezas, 400 g.","p":[["",180]],"img":"camaron"},
+  {"n":"Tonkotsu Ramen","a":1,"d":"Tonkotsu dashi, pork belly confitada, nori, huevo marinado, fideos hechos en casa y salsa macha. 450 g.","p":[["",185]],"img":"tonkotsu"},
+  {"n":"Miso Ramen","a":1,"d":"Pechuga de pollo empanizada, miso dashi, fideos hechos en casa, cebolla cambray, salsa macha y ajonjolí. 450 g.","p":[["",175]],"img":"miso"},
+  {"n":"Veggie Ramen","a":1,"d":"Tofu frito, shoyu, fideos hechos en casa, salsa macha, cebolla cambray, vegetales y nori. 450 g.","p":[["",165]],"img":"veggie"}]},
+ {"id":"sushi","nombre":"Sushi","items":[
+  {"n":"Suculento Roll","a":1,"d":"Dentro: camarón tempura y aguacate. Fuera: ensalada de cangrejo y salsa de anguila.","p":[["",165]]},
+  {"n":"California Roll","a":1,"d":"Dentro: salmón, queso crema y aguacate. Fuera: mayonesa japonesa y furikake.","p":[["",160]],"img":"california"},
+  {"n":"Tartar Roll","a":1,"d":"Dentro: queso crema, pepino y aguacate. Fuera: tartar de atún, spicy mayo, cebolla cambray y togarashi.","p":[["",170]]}]},
+ {"id":"especiales","nombre":"Especiales","items":[
+  {"n":"Yakimeshi","a":1,"d":"Arroz frito con proteína, vegetales, huevo, salsa soya, cebolla cambray y kanikama frito. 450 g.","p":[["Pollo",125],["Mixto (pollo, suadero, camarón)",160],["Camarón",180],["Milanesa de pollo",180]],"img":"yakimeshi"},
+  {"n":"Yakisoba original","a":1,"d":"Salsa yakisoba tradicional, vegetales, fideos hechos en casa, cebolla cambray, aceite de habanero y ajonjolí. 450 g.","p":[["Tofu frito",180],["Milanesa de pollo",180],["Pork belly",190],["Camarón",215]],"img":"yakisoba"},
+  {"n":"Pad Thai","a":1,"d":"Tallarín de arroz salteado con salsa pad thai, germen de trigo, ajo-jengibre, cilantro y cebolla cambray. 450 g.","p":[["Pollo",180],["Camarón",215]],"img":"padthai"},
+  {"n":"Makhan Curry","a":1,"d":"Salsa cremosa especiada de la India, pechuga de pollo en cubo, arroz vapor, cilantro, nuez de la India y pan pita. 450 g.","p":[["",185]],"img":"makhan"},
+  {"n":"Torikatsudon","d":"Arroz vapor, dashi katsudon con huevo, pollo empanizado, salsa agridulce y furikake. 450 g.","p":[["",180]],"img":"torikatsudon"}]},
+ {"id":"kids","nombre":"Kids","items":[
+  {"n":"Ramen de niños","a":1,"d":"Fideos hechos en casa, shoyu dashi y vegetales. 350 g.","p":[["",100]]},
+  {"n":"Milanesa de pollo con papas","a":1,"d":"Milanesa empanizada con papas a la francesa. 250 g.","p":[["",110]]}]},
+ {"id":"extras","nombre":"Extras","items":[
+  {"n":"Papas a la francesa","d":"180 g","p":[["",60]]},
+  {"n":"Huevo marinado","d":"1 pieza","p":[["",35]]},
+  {"n":"Porción de fideos","d":"90 g","p":[["",40]]},
+  {"n":"Camarón tempura","d":"1 pieza","p":[["",40]]},
+  {"n":"Pollo, suadero o pork belly","d":"100 g","p":[["",55]]},
+  {"n":"Arroz vapor con furikake","d":"200 g","p":[["",45]]}]}
+ ]
+}
